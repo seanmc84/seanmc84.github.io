@@ -13,7 +13,7 @@ body {
     background-position: center center;
 }
 .slide1 {
-    background-image: url({{ site.url }}/assets/images/slide1.jpg);
+    background-image: url({{ site.url }}/assets/images/slide1.png);
 }
 .slide2 {
     background-image: url({{ site.url }}/assets/images/slide2.jpg);
