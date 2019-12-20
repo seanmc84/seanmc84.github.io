@@ -66,3 +66,112 @@ body {
     font-size: 1.75em;
     padding: 10px 30px;
 }
+.column-narrow{
+    width: 30%;
+    float: left;
+    padding-right: 3%;
+    min-height: 175px;
+}
+.column-wide{
+    width: 70%;
+    float: left;
+    min-height: 225px;
+}
+.ft10 {
+    font-size: 11px;
+    font-family: Times;
+    color: #666666;
+}
+
+.ft11 {
+    font-size: 52px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft12 {
+    font-size: 11px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft13 {
+    font-size: 11px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft14 {
+    font-size: 11px;
+    font-family: Times;
+    color: #1f79c6;
+}
+
+.ft15 {
+    font-size: 11px;
+    font-family: Times;
+    color: #b7b7b7;
+}
+
+.ft16 {
+    font-size: 14px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft17 {
+    font-size: 14px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft18 {
+    font-size: 14px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft19 {
+    font-size: 10px;
+    font-family: Times;
+    color: #666666;
+}
+
+.ft110 {
+    font-size: 12px;
+    font-family: Times;
+    color: #1f79c6;
+}
+
+.ft111 {
+    font-size: 16px;
+    font-family: Times;
+    color: #000000;
+}
+
+.ft112 {
+    font-size: 11px;
+    font-family: Helvetica;
+    color: #343434;
+}
+
+.ft113 {
+    font-size: 11px;
+    font-family: Times;
+    color: #666666;
+}
+
+.ft114 {
+    font-size: 11px;
+    line-height: 16px;
+    font-family: Times;
+    color: #666666;
+}
+
+.ft115 {
+    font-size: 11px;
+    line-height: 19px;
+    font-family: Times;
+    color: #000000;
+}
+
