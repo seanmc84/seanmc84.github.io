@@ -1,7 +1,7 @@
-name: "Keith Williams"
+name: "Sean Conroy"
 description: "Lightweight theme"
 
-url: '' 
+url: ''
 baseurl: ''
 
 markdown: kramdown
@@ -23,6 +23,6 @@ source: .
 destination: ./_site
 
 sass:
-    style: :compressed
-    sass_dir: assets/css/
+  style: :compressed
+  sass_dir: assets/css/
 
