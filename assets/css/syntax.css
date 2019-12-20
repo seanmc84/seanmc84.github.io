@@ -41,7 +41,10 @@ body {
     opacity: 0;
     filter: alpha(opacity=0);
 }
-
+.carousel-overlay {
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.75);
+}
 .carousel-overlay {
     position: absolute;
     bottom: 100px;
@@ -49,17 +52,17 @@ body {
     left: 0;
 }
 
-.h1 {
+.carousel-overlay h1 {
     font-size: 3.5em;
 }
-.btn {
+.carousel-overlay .btn {
     border-top: none;
     border-left: none;
     border-right: none;
     border-bottom: 4px solid #398439;
     border-radius: 6px;
 }
-.btn-lg {
+.carousel-overlay .btn-lg {
     font-size: 1.75em;
     padding: 10px 30px;
 }
