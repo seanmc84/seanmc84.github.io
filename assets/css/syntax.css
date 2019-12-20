@@ -7,19 +7,23 @@ body {
     height: 375px;
     margin: 0 auto;
 }
-.slide1, .slide2, .slide3 {
+.slide1, .slide2, .slide3, .slide4 {
     min-height: 560px;
     background-size: cover;
     background-position: center center;
 }
 .slide1 {
-    background-image: url();
+    background-image: url(/assets/images/slide1.jpg);
 }
 .slide2 {
-    background-image: url();
+    background-image: url(/assets/images/slide2.jpg);
 }
 .slide3 {
-    background-image: url();
+     background-image: url(/assets/images/slide3.jpg);
+ }
+
+.slide4 {
+    background-image: url(/assets/images/slide4.jpg);
 }
 
 .carousel.carousel-fade .item {
