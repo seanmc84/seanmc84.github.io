@@ -10,7 +10,7 @@ body {
 .fade-carousel .slides .slide-1,
 .fade-carousel .slides .slide-2,
 .fade-carousel .slides .slide-3 {
-    height: 50vh;
+    height: 100vh;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -18,14 +18,20 @@ body {
 
 .fade-carousel .slides .slide-1 {
     background-image: url(/assets/images/slide1.png);
+    min-height: 300px;
+    max-height: 350px;
 }
 
 .fade-carousel .slides .slide-2 {
     background-image: url(/assets/images/slide2.jpg);
+    min-height: 300px;
+    max-height: 350px;
 }
 
 .fade-carousel .slides .slide-3 {
     background-image: url(/assets/images/slide3.jpg);
+    min-height: 300px;
+    max-height: 350px;
 }
 .btn.btn-lg {
     padding: 10px 40px;
