@@ -20,18 +20,24 @@ body {
     background-image: url(/assets/images/slide1.png);
     min-height: 300px;
     max-height: 350px;
+    min-width: 900px;
+    max-width: 950px;
 }
 
 .fade-carousel .slides .slide-2 {
     background-image: url(/assets/images/slide2.jpg);
     min-height: 300px;
     max-height: 350px;
+    min-width: 900px;
+    max-width: 950px;
 }
 
 .fade-carousel .slides .slide-3 {
     background-image: url(/assets/images/slide3.jpg);
     min-height: 300px;
     max-height: 350px;
+    min-width: 900px;
+    max-width: 950px;
 }
 .btn.btn-lg {
     padding: 10px 40px;
